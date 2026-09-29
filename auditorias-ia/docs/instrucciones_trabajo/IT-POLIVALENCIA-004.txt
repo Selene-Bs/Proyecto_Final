@@ -1,0 +1,13 @@
+INSTRUCCIÓN DE TRABAJO IT-POLIVALENCIA-004
+Título: Matriz de polivalencia y asignación de personal
+
+1. La matriz de polivalencia define en qué líneas/estaciones está
+   certificado cada operador, con fecha de certificación y vigencia.
+2. Un operador solo puede cubrir una estación si aparece certificado en la
+   matriz vigente para esa línea.
+3. En caso de ausentismo, Recursos Humanos y el líder de línea deben
+   verificar la matriz antes de reasignar personal.
+4. Cubrir una estación sin certificación vigente se considera una
+   desviación crítica de proceso (riesgo alto) y debe registrarse como
+   "No OK sin acción" si no se corrige de inmediato con un operador
+   certificado o un entrenamiento supervisado in situ.

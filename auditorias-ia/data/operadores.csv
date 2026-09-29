@@ -1,0 +1,41 @@
+operador_id,linea_home,matriz_polivalencia,antiguedad_meses,propension_riesgo
+OP001,Línea 1,Línea 1,74,0.22
+OP002,Línea 1,Línea 1,67,0.02
+OP003,Línea 3,Línea 3;Línea 4,49,0.153
+OP004,Línea 1,Línea 1,18,0.418
+OP005,Línea 4,Línea 2;Línea 4,43,0.182
+OP006,Línea 1,Línea 1,53,0.34
+OP007,Línea 2,Línea 2;Línea 3,67,0.312
+OP008,Línea 2,Línea 2;Línea 3;Línea 4,19,0.469
+OP009,Línea 2,Línea 2,5,0.527
+OP010,Línea 4,Línea 2;Línea 3;Línea 4,87,0.139
+OP011,Línea 2,Línea 2,44,0.179
+OP012,Línea 1,Línea 1,54,0.319
+OP013,Línea 3,Línea 2;Línea 3,67,0.23
+OP014,Línea 4,Línea 3;Línea 4,80,0.126
+OP015,Línea 2,Línea 2;Línea 3,14,0.511
+OP016,Línea 4,Línea 1;Línea 4,75,0.02
+OP017,Línea 3,Línea 2;Línea 3,44,0.203
+OP018,Línea 1,Línea 1,14,0.326
+OP019,Línea 3,Línea 2;Línea 3,8,0.48
+OP020,Línea 4,Línea 1;Línea 4,54,0.325
+OP021,Línea 3,Línea 3,3,0.588
+OP022,Línea 2,Línea 1;Línea 2;Línea 4,79,0.165
+OP023,Línea 1,Línea 1,42,0.239
+OP024,Línea 3,Línea 3;Línea 4,64,0.143
+OP025,Línea 2,Línea 2,78,0.066
+OP026,Línea 1,Línea 1;Línea 2,67,0.109
+OP027,Línea 2,Línea 2;Línea 4,15,0.479
+OP028,Línea 2,Línea 2,43,0.234
+OP029,Línea 3,Línea 3,60,0.026
+OP030,Línea 2,Línea 1;Línea 2;Línea 3,48,0.215
+OP031,Línea 3,Línea 1;Línea 3;Línea 4,69,0.043
+OP032,Línea 3,Línea 3,26,0.329
+OP033,Línea 1,Línea 1,44,0.332
+OP034,Línea 4,Línea 4,56,0.046
+OP035,Línea 1,Línea 1;Línea 4,64,0.183
+OP036,Línea 2,Línea 1;Línea 2,62,0.067
+OP037,Línea 4,Línea 4,40,0.463
+OP038,Línea 1,Línea 1,32,0.516
+OP039,Línea 1,Línea 1,56,0.109
+OP040,Línea 4,Línea 4,56,0.296

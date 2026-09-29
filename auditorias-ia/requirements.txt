@@ -1,0 +1,9 @@
+streamlit>=1.38
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn>=1.5
+plotly>=5.22
+PyWavelets>=1.6
+anthropic>=0.34
+sentence-transformers>=3.0

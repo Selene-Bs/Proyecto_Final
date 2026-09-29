@@ -1,0 +1,11 @@
+INSTRUCCIÓN DE TRABAJO IT-PROCESO-003
+Título: Secuencia estándar de operación
+
+1. Cada estación cuenta con una instrucción de trabajo visible con la
+   secuencia de pasos, tiempos de ciclo estándar y puntos de verificación.
+2. El operador debe seguir la secuencia documentada; cualquier cambio de
+   método debe pasar por control de cambios de ingeniería de proceso.
+3. El tiempo de ciclo estándar no debe excederse por más de 10% de forma
+   sostenida; desviaciones repetidas se escalan a mejora continua.
+4. Los puntos de verificación de calidad marcados en la IT (checkpoints)
+   no pueden omitirse bajo ninguna circunstancia.

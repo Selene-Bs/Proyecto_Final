@@ -1,0 +1,12 @@
+INSTRUCCIÓN DE TRABAJO IT-VERNIER-002
+Título: Medición dimensional de pieza con vernier
+
+1. Verificar que el vernier tenga calibración vigente (etiqueta verde).
+2. Antes de medir, verificar el cero del instrumento sobre superficie limpia.
+3. Sostener la pieza firmemente y realizar la medición perpendicular a la
+   superficie de referencia, sin forzar las quijadas del vernier.
+4. Registrar la medición en el formato de control dimensional de la
+   estación, incluyendo hora y turno.
+5. Si la medición está fuera de tolerancia (nominal 25.00 mm ± 0.10 mm),
+   segregar la pieza como no conforme y notificar al supervisor de calidad.
+6. La pregunta P2 de la auditoría de proceso valida el cumplimiento de esta IT.

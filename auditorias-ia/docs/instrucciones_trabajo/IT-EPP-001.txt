@@ -1,0 +1,11 @@
+INSTRUCCIÓN DE TRABAJO IT-EPP-001
+Título: Uso correcto del Equipo de Protección Personal (EPP)
+
+1. Alcance: Aplica a todo operador dentro del área de producción.
+2. EPP obligatorio por estación: lentes de seguridad, tapones auditivos,
+   guantes de nitrilo, calzado de seguridad y cofia en áreas de ensamble fino.
+3. El operador debe inspeccionar su EPP al inicio de turno; cualquier EPP
+   dañado debe reportarse al líder de línea antes de iniciar operación.
+4. No está permitido operar maquinaria sin el EPP completo, sin excepción.
+5. El auditor de proceso verifica el cumplimiento de EPP como parte de la
+   cédula de auditoría de piso (pregunta P1).

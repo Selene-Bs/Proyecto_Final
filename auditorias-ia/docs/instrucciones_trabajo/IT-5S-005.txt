@@ -1,0 +1,10 @@
+INSTRUCCIÓN DE TRABAJO IT-5S-005
+Título: Orden, limpieza e identificación de estación (5S)
+
+1. Clasificar: solo herramientas y materiales necesarios en la estación.
+2. Ordenar: cada herramienta tiene un lugar identificado (sombra/etiqueta).
+3. Limpiar: la estación se limpia al inicio y fin de cada turno.
+4. Estandarizar: los contenedores de producto bueno, scrap y no conforme
+   deben estar rotulados e identificados visualmente en todo momento.
+5. Disciplina: el cumplimiento de 5S se verifica en cada auditoría de
+   proceso (pregunta P5) y forma parte del indicador de piso limpio.

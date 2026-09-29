@@ -1,0 +1,12 @@
+INSTRUCCIÓN DE TRABAJO IT-NOCONFORME-006
+Título: Manejo de producto no conforme
+
+1. Toda pieza que no cumpla especificación dimensional o visual debe
+   segregarse de inmediato en el área identificada como "Producto No
+   Conforme" (contenedor rojo).
+2. Debe llenarse la etiqueta de no conformidad con: fecha, línea, turno,
+   operador, defecto encontrado y cantidad.
+3. Está prohibido mezclar producto no conforme con producto bueno, aún de
+   forma temporal.
+4. El supervisor de calidad decide la disposición final (retrabajo,
+   scrap o uso bajo concesión).
